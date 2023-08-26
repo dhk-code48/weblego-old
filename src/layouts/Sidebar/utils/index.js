@@ -1,0 +1,1 @@
+import defaultComps from "./defautlComps";

@@ -1,0 +1,112 @@
+{
+  "Websites": {
+    "websiteId1": {
+      "pages": {
+        "pageId1": {
+          "pageName": "Home",
+          "sections": [
+            {
+              "children": [
+                {
+                  "content": "Heading 1",
+                  "expanded": true,
+                  "id": "1",
+                  "path": "/Websites/websiteId1/pages/pageId1/sections/-NVrPXBK7r5d4-WzVY3K/children/-NVrPcLUIIr7su4I5mrR",
+                  "sectionName": "Heading 1",
+                  "styles": {
+                    "background": "inherit",
+                    "color": "inherit",
+                    "fontSize": "25px",
+                    "fontWeight": 700,
+                    "letterSpacing": 1.5,
+                    "marginBottom": "0px",
+                    "marginLeft": "0px",
+                    "marginRight": "0px",
+                    "marginTop": "0px",
+                    "paddingBottom": "0px",
+                    "paddingLeft": "0px",
+                    "paddingRight": "0px",
+                    "paddingTop": "0px"
+                  },
+                  "tag": "h1"
+                },
+                {
+                  "content": "New Section",
+                  "expanded": true,
+                  "id": "0",
+                  "path": "/Websites/websiteId1/pages/pageId1/sections/-NVrPdlrry6iw7zaMrZj",
+                  "sectionName": "New Section",
+                  "styles": {
+                    "background": "inherit"
+                  },
+                  "tag": "div"
+                }
+              ],
+              "expanded": true,
+              "id": "2",
+              "path": "/Websites/websiteId1/pages/pageId1/sections/sectionId1",
+              "sectionName": "Header",
+              "styles": {
+                "alignItems": "center",
+                "background": "#ffffff",
+                "borderRadius": 0,
+                "color": "#1f1f1f",
+                "display": "flex",
+                "height": "auto",
+                "justifyContent": "space-between",
+                "marginBottom": 0,
+                "marginLeft": 1,
+                "marginRight": 0,
+                "marginTop": 0,
+                "paddingBottom": 10,
+                "paddingLeft": 50,
+                "paddingRight": 50,
+                "paddingTop": 10,
+                "width": "auto"
+              },
+              "tag": "div"
+            },
+            {
+              "children": [
+                {
+                  "content": "Heading 1",
+                  "expanded": true,
+                  "id": "0",
+                  "path": "/Websites/websiteId1/pages/pageId1/sections/sectionId1/children/-NVo94nJhVpTu9NNa1f2",
+                  "sectionName": "Heading 1",
+                  "styles": {
+                    "background": "inherit",
+                    "borderRadius": 0,
+                    "color": "#8c00ff",
+                    "fontSize": "25px",
+                    "fontWeight": 700,
+                    "height": "auto",
+                    "letterSpacing": 1.5,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "marginTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "paddingTop": 0,
+                    "width": "auto"
+                  },
+                  "tag": "h1"
+                }
+              ],
+              "expanded": true,
+              "id": "0",
+              "path": "/Websites/websiteId1/pages/pageId1/sections/-NVrPXBK7r5d4-WzVY3K",
+              "sectionName": "New Section",
+              "styles": {
+                "background": "inherit"
+              },
+              "tag": "div"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
